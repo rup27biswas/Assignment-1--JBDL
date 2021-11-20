@@ -161,14 +161,14 @@ Multiple Inheritance
             Functionality : finalize() method perfoms the cleanup activity with respect to the object, before its destructions.
             Execution : finalize() method is executed just before the object is destroyed.
             
-********************************** Q7.What is a collection? **********************************
+**********************************Q7.What is a collection?**********************************
 
  The Collection in java is a framework that provides an architecture to store and manipulate the group of objects.
             Java Collection can achieve all the operations that you perform on data such as searching, sorting, insertion, manipulation and deletion.
             Java Collection means a single unit of objects.
             Java Collection provides many interfaces (Set, List, Queue, Deque) and classes (ArrayList, LinkedList, PriorityQueue, HashSet, LinkedHashSet, TreeSet).
 
-********************************** ArrayList vs LinkedList **********************************
+**********************************Q8.ArrayList vs LinkedList**********************************
 
 ArrayList and LinkedList both implements List Interface and maintains insertion order. Both are non synchronised classes.
             Differences between ArrayList and LinkedList :
@@ -183,7 +183,7 @@ ArrayList and LinkedList both implements List Interface and maintains insertion 
             3)LinkedList class can act as a List and Queue both because it implements both List and Deque interfaces.
             4)LinkedList is better for manipulating data.
             
- ********************************** equal vs == difference **********************************
+ **********************************Q9.equal vs == difference**********************************
  
  1) main difference is that equal() is method and == is an operator.
  2) We use == operattor for reference comparision(address comparision) and equal() method for content comparision.
