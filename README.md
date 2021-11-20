@@ -47,7 +47,7 @@ public class Example implements MyInterface{
     }  
 }
 
-***************************Q2.What is an abstract class?**********************************
+**********************************Q2.What is an abstract class?**********************************
 
 Answer:
 A class which is declared as abstract is known as an abstract class. It can have abstract and non-abstract methods. It needs to be extended and its abstract method need to be implemented. It cannot be instantiated.
